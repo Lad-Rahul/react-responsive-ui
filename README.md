@@ -71,3 +71,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### added bootstrap library 5.3.3
 yarn add bootstrap@5.3.3
+
+## added react bootstrap package
+yarn add react-bootstrap
+"react-bootstrap": "^2.10.5",
+
+### added below import in top of index file
+import 'bootstrap/dist/css/bootstrap.css';
